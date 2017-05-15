@@ -1,5 +1,7 @@
 nppm (WIP)
 ====
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/matteofigus/nppm.svg)](https://greenkeeper.io/)
 Install and require multiple versions of npm modules
 
 #### Install
